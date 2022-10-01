@@ -1,0 +1,18 @@
+PODS:
+  - DRCUtils (1.0.0)
+  - DRCUtils/Tests (1.0.0)
+
+DEPENDENCIES:
+  - DRCUtils (from `../`)
+  - DRCUtils/Tests (from `../`)
+
+EXTERNAL SOURCES:
+  DRCUtils:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DRCUtils: 6d5cc4f11058325b9e4f63cb13660a27897e61b6
+
+PODFILE CHECKSUM: 1b8702dc097d93a58aa54bc2c7412d92b47dfc77
+
+COCOAPODS: 1.11.3

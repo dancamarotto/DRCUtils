@@ -1,0 +1,6 @@
+framework module DRCUtils {
+  umbrella header "DRCUtils-umbrella.h"
+
+  export *
+  module * { export * }
+}
