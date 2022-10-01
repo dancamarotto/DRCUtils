@@ -10,7 +10,7 @@ Pod::Spec.new do |spec|
     spec.platform       = :ios, "13.0"
     spec.swift_version  = "5"
     spec.source         = {
-        :git => "git@github.com:dancamarotto/DRCUtils.git",
+        :git => "https://github.com/dancamarotto/DRCUtils.git",
         :tag => "#{spec.version}"
     }
     spec.source_files   = "DRCUtils/**/*.{h,m,swift}"
